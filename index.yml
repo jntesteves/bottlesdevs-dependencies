@@ -102,6 +102,9 @@ dotnetcoredesktop8:
 dotnetcoredesktop9:
   Description: Microsoft .NET Core Desktop Runtime 9.0
   Category: Essentials
+dotnetcoredesktop10:
+  Description: Microsoft .NET Core Desktop Runtime 10.0 LTS
+  Category: Essentials
 
 # GENERIC
 # ------------------------------
